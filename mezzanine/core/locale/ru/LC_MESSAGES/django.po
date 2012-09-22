@@ -361,6 +361,10 @@ msgstr ""
 msgid "View on site"
 msgstr "Посмотреть на сайте"
 
+#: models.py:98
+msgid "View site"
+msgstr "Перейти на сайт"
+
 #: models.py:110
 msgid ""
 "Optional title to be used in the HTML title tag. If left blank, the main "
